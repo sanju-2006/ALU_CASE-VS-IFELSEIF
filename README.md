@@ -6,7 +6,6 @@ Write a Verilog code for 32 32-bit ALU supporting four logical and four arithmet
 To verify the Functionality using Test Bench 
 
 Synthesize and compare the results using if and case statements 
-
 Identify Critical Path and constraints
 
 ## Tool Required: 
